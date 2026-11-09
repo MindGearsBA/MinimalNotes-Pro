@@ -1,0 +1,27 @@
+END-USER LICENSE AGREEMENT (EULA) FOR MINIMALNOTES PRO
+
+Copyright (c) 2026 MinimalNotes. All Rights Reserved.
+
+NOTICE TO USER: PLEASE READ THIS CONTRACT CAREFULLY. BY DOWNLOADING, INSTALLING, 
+OR USING THIS SOFTWARE, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE
+MinimalNotes Pro ("Software") is provided to you free of charge for personal, educational, 
+or internal business use. This Software is proprietary and NOT open source.
+
+2. RESTRICTIONS
+- NON-COMMERCIAL / NO SALE: You may not sell, rent, lease, sub-license, host, or 
+  otherwise commercialize this Software or any of its components.
+- NO MODIFICATION: You may not reverse engineer, decompile, disassemble, modify, 
+  adapt, translate, or create derivative works based upon the Software.
+- NO RE-DISTRIBUTION FOR PROFIT: You may share the official installer unmodified, 
+  provided no fee is charged for the Software or its distribution.
+
+3. OWNERSHIP
+The Software, including all code, graphics, documentation, and user interfaces, is owned 
+by MinimalNotes and is protected by copyright and intellectual property laws.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. 
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY 
+ARISING FROM THE USE OF OR INABILITY TO USE THIS SOFTWARE.
